@@ -1,1 +1,1 @@
-# my-first-try
+這是我的 Day 3 重複練習！。
